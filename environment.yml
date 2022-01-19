@@ -1,0 +1,25 @@
+name: baystat
+channels:
+  - conda-forge
+
+dependencies:
+  - conda-build
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - scipy
+  - pandas
+  - numba
+  - numpy
+  - pip
+  - seaborn
+  - arviz
+  - ipython
+  - pystan
+
+  - pytest
+  - pytest-cov
+
+
+
+
