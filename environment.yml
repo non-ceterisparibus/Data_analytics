@@ -5,19 +5,18 @@ channels:
 dependencies:
   - conda-build
   - ipykernel
-  - ipywidgets
   - jupyterlab
+  - pip
   - matplotlib
+  - ipywidgets
   - scipy
   - pandas
   - numba
   - numpy
-  - pip
+
   - seaborn
   - plotly
-  - arviz
   - ipython
-  - pystan
 
   - pytest
   - pytest-cov
