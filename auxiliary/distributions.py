@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 class DistFunctions():
     def __init__(self, n):
         if n is None:
-            self.n = 15
+            self.n = 20
         else:
             self.n = n
         
