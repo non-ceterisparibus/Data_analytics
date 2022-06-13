@@ -1,4 +1,4 @@
-# Probability and Distribution Python Demos
+# Probability and Distribution Python 
 
 This repository contains some Python demos 
 
