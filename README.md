@@ -1,4 +1,4 @@
-# Bayesian Data Analysis Python Demos
+# Probability and Distribution Python Demos
 
 This repository contains some Python demos 
 
